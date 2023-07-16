@@ -9,8 +9,8 @@
 - Master: International Institute of Artificial Intelligence Management at National Yunlin University of Science and Technology.
 
 ### 2. Lab:
--Bachelor: Information Fusion lab
--Master: Precise AI lab
+- Bachelor: Information Fusion lab
+- Master: Precise AI lab
 
 ### 3. Master thesis
 Explainable Uncertainty-Based Deep Reinforcement learning for portfolio management
