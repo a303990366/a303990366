@@ -26,6 +26,7 @@ Explainable Uncertainty-Based Deep Reinforcement learning for portfolio manageme
 - Participate 2022 Smart Manufacturing Big Data Analysis Competition and reach the final.
 - Being a teaching assistant for two courses: (1) Python programming with AI (2) Deep learning
 - 2022 FutureTech Award in Taiwan. !!!Note: should explain more.
+- Being a conductor in Python with AI workshop
 - Publish two theses at conferences:
 - (Yuntech) Adaptive cognitive skill training system based on reinforcement learning
 - (!!!) Two-Streams Feature Extraction for Deep Reinforcement Learning in Portfolio Management
