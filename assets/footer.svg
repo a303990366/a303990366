@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7048e8"/>
+      <stop offset="1" stop-color="#4c6ef5"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0 110H1200V50C1050 10 900 80 750 50S450 0 300 40 100 70 0 45Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0 110H1200V50C1050 10 900 80 750 50S450 0 300 40 100 70 0 45Z;
+              M0 110H1200V40C1050 75 900 10 750 45S450 80 300 50 100 10 0 55Z;
+              M0 110H1200V50C1050 10 900 80 750 50S450 0 300 40 100 70 0 45Z"/>
+  </path>
+</svg>
